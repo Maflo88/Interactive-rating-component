@@ -69,7 +69,7 @@ main{
     background-color: rgba(47, 56, 69, 0.4);
     border-radius: .75rem;
 
-    box-shadow: 1px 1px 12px 0px var(--shadow);
+    box-shadow: .0625rem .0625rem .75rem 0rem var(--shadow);
 }
 
 @media screen and (min-width: 48rem){
