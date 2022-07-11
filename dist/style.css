@@ -68,7 +68,6 @@ main{
 
     background-color: rgba(47, 56, 69, 0.4);
     border-radius: .75rem;
-
     box-shadow: .0625rem .0625rem .75rem 0rem var(--shadow);
 }
 
